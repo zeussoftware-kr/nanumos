@@ -26,7 +26,7 @@ Open an [Issue](https://github.com/zeussoftware-kr/nanumos/issues/new/choose). P
 
 ## License
 
-The source code is not published yet. When it is, the core is planned as AGPL-3.0 with a commercial license, and the SDK and app kit as MIT. The text in this repository (logs and feature lists) is shared for reading; please link back to https://nanumos.com when you quote it.
+The source code is not published yet. When it is, the core is planned as AGPL-3.0 with a commercial license, and the SDK and app kit as MIT. The text and data in this repository (logs, feature lists, release notes) are licensed under [CC BY 4.0](LICENSE): share, translate and quote freely, crediting "NanumOS (https://nanumos.com)".
 
 ## 한국어
 
@@ -40,4 +40,4 @@ The source code is not published yet. When it is, the core is planned as AGPL-3.
 - 기능 목록과 상태: [FEATURES.md](FEATURES.md) (지금 10178개: 됨 3803, 일부 됨 4018, 만드는 중 423, 고치는 중 32, 할 예정 1902)
 - 사용한 버전: [RELEASES.md](RELEASES.md)
 
-흠이나 바라는 점은 [Issues](https://github.com/zeussoftware-kr/nanumos/issues/new/choose) 에 남겨 주세요. 코드를 고치는 풀 리퀘스트는 받지 않습니다. 소스 코드는 아직 공개하지 않았고, 공개할 때 코어는 AGPL-3.0 과 상업 라이선스, SDK 와 앱 키트는 MIT 로 낼 계획입니다.
+흠이나 바라는 점은 [Issues](https://github.com/zeussoftware-kr/nanumos/issues/new/choose) 에 남겨 주세요. 코드를 고치는 풀 리퀘스트는 받지 않습니다. 소스 코드는 아직 공개하지 않았고, 공개할 때 코어는 AGPL-3.0 과 상업 라이선스, SDK 와 앱 키트는 MIT 로 낼 계획입니다. 이 저장소의 글과 자료(기록·기능 목록·릴리스)는 [CC BY 4.0](LICENSE) — 출처 「NanumOS (https://nanumos.com)」를 밝히면 자유롭게 퍼 가고 번역하고 인용할 수 있습니다.
