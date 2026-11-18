@@ -6,6 +6,7 @@ NanumOS is a small operating system that runs as a window on the computer you al
 
 This repository is the public progress record. It shows what is done, what is being built and what is planned. It does not contain the source code.
 
+- **Download for Mac (Apple silicon, preview):** [NanumOS-mac.dmg](https://github.com/zeussoftware-kr/nanumos/releases/latest/download/NanumOS-mac.dmg) · [all releases](https://github.com/zeussoftware-kr/nanumos/releases)
 - **Try it now, nothing to install:** https://nanumos.com/try
 - **Website:** https://nanumos.com
 - **Feature map:** https://nanumos.com/map
@@ -34,6 +35,7 @@ The source code is not published yet. When it is, the core is planned as AGPL-3.
 
 이 저장소는 만들어 가는 과정을 보여 주는 공개 기록입니다. 소스 코드는 들어 있지 않습니다.
 
+- 맥용 내려받기 (애플 실리콘, 미리보기): [NanumOS-mac.dmg](https://github.com/zeussoftware-kr/nanumos/releases/latest/download/NanumOS-mac.dmg)
 - 설치 없이 바로 써 보기: https://nanumos.com/try
 - 사이트: https://nanumos.com
 - 매일 기록: [log/](log/) (영어·한국어 함께)
