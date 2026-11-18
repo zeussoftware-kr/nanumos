@@ -1,0 +1,5 @@
+blank_issues_enabled: false
+contact_links:
+  - name: Try NanumOS in your browser
+    url: https://nanumos.com/try
+    about: Nothing to install.
